@@ -1,0 +1,24 @@
+C:\Users\Dead Cardinal\AppData\Local\Temporary Projects\ArduinoControl_F2\bin\Debug\ArduinoControl_F2.exe
+C:\Users\Dead Cardinal\AppData\Local\Temporary Projects\ArduinoControl_F2\bin\Debug\ArduinoControl_F2.pdb
+C:\Users\Dead Cardinal\AppData\Local\Temporary Projects\ArduinoControl_F2\bin\Debug\ArduinoControl_F2.xml
+C:\Users\Dead Cardinal\AppData\Local\Temporary Projects\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.frmMain.resources
+C:\Users\Dead Cardinal\AppData\Local\Temporary Projects\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.Resources.resources
+C:\Users\Dead Cardinal\AppData\Local\Temporary Projects\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.vbproj.GenerateResource.Cache
+C:\Users\Dead Cardinal\AppData\Local\Temporary Projects\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.exe
+C:\Users\Dead Cardinal\AppData\Local\Temporary Projects\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.xml
+C:\Users\Dead Cardinal\AppData\Local\Temporary Projects\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.pdb
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.exe
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.xml
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.pdb
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\bin\Debug\ArduinoControl_F2.exe
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\bin\Debug\ArduinoControl_F2.pdb
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\bin\Debug\ArduinoControl_F2.xml
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.frmMain.resources
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.Resources.resources
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.vbproj.GenerateResource.Cache
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\bin\Debug\Interop.MSCommLib.dll
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\bin\Debug\AxInterop.MSCommLib.dll
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\obj\x86\Debug\Interop.MSCommLib.dll
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\obj\x86\Debug\AxInterop.MSCommLib.dll
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.vbproj.ResolveComReference.cache
+C:\Users\Dead Cardinal\documents\visual studio 2010\Projects\ArduinoControl_F2\ArduinoControl_F2\obj\x86\Debug\ArduinoControl_F2.frmSerialMon.resources
